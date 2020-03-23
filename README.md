@@ -1,4 +1,5 @@
 # ECE 3612 Lab 7 Activity 1
+## Multiplication, division and bit shifting
 
 This lab shows how bit shifting by some number *N* is equivalent to
 multiplication (when shift to the left) or division (when shift to the
